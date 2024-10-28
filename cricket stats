@@ -1,0 +1,26 @@
+<head>
+<title>Cricket_stats.com</title>
+</head>
+<body>
+    <h1 style="color:rgb(0, 109, 128);">Cricket stats</h1> <!---->
+
+    <p>This is a place where you will get an opportunity to get quick info about cricket all over the world. 
+    ESPNcricinfo (formerly known as Cricinfo or CricInfo) is a sports news website exclusively 
+    for the game of cricket.</p>
+<br/>
+     <p>For more information refer to:</p>
+     <a href=https://www.google.com/search?q=cricinfo&oq=crini&gs_lcrp
+       =EgZjaHJvbWUqDwgBEAAYChiDARixAxiABDIGCAAQRRg5Mg8IARAAGAoYgwEYsQMYgAQyCQgCEAAYChiABDIHCAMQABiABDIJCAQQABgKGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBggHEAUYQNIBCDMyMTVqMGo3qAIIsAIB&sourceid
+       =chrome&ie=UTF-8> ESPNcricinfo</a>
+<br />
+     <img src="/cricket_picture.webp"alt="Cricket picture"height="600"/>
+
+     <p>cricket records ahead:</p>
+     <a href="https://www.espncricinfo.com/records">records</a>
+
+
+     
+
+</body>
+</html>
+
